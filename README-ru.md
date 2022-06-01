@@ -1246,7 +1246,7 @@ l10n:p -->
 
 If a service consists of multiple components prone to failure, the service's overall availability depends on whether the components are in sequence or in parallel.
 l10n:p -->
-
+##### SLA Calculator: http://www.slatools.com/sla-uptime-calculator
 #### Параллельная и последовательная доступность
 
 Если сервис состоит из нескольких компонентов, которые могут отказать в обслуживании, доступность сервиса зависит от того, как связаны эти компоненты - последовательно или параллельно.
